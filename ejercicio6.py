@@ -9,3 +9,8 @@ Funciones predefinidas más reseñables
     tuple() Crea o convierte en una tupla.
     type() Devuelve el tipo del elemento pasado como parámetro.
     '''
+print("Hola")
+
+a=("Hola esto sera una lista")
+Lista2=a.split()
+print(Lista2)
